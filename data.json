@@ -1,0 +1,52 @@
+{
+  "basics":{
+    "name":"ANJANA PRASSU",
+    "email":"Anjanabanki1998@gmail.com",
+    "mobile":"+91 9000555000"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B.Tech(CSE)",
+      "institute":"Avanthi",
+      "Data":["2015-19","95%"]
+    },
+    {
+
+        "degree":"Intermediate/Diploma(CME)",
+        "institute":"Govt.polytechnique,Anakapalli",
+        "data":["2017-19","85%"]
+    },
+    {
+
+        "degree":"S.S.C",
+        "institute":"Mohan secondry",
+        "data":["2013","80%"]
+    }
+  ],
+  "skills":[
+    {
+      "tittle":"programming languages",
+      "info":["C","C++","java","phython","R"]
+    },
+    {
+      "tittle":"Databases",
+      "info":["mongoDb","mysql","oracle"]
+    },
+    {
+      "tittle":"Web Technologies",
+      "info":["HTML5","CSS3","javaScript"]
+    },
+    {
+      "tittle":"Libraries and Frameworks",
+      "info":["ionic","Angular","exprress",".Net","Django"]
+    },
+    {
+      "tittle":"Operating Systems",
+      "info":["linux","windows","Dos"]
+    }
+  ]
+
+}
